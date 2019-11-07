@@ -31,7 +31,7 @@ As discussed above, and in order for the users of Automail to have confidence th
 ## 1. Domain Class Diagram
 A domain class diagram for the robot mail delivery domain, as reflected in the revised simulation. 
 ## 2. Static Design Model 
-A static design model (design class diagram) of all changed and directly related components, complete with (for the changed components) visibility modifiers, attributes, associations, and public (at least) methods. This diagram must contain all relevant associations and dependencies (few if any tools do this automatically), and be well laid-out/readable; you should not expect to receive any marks for a diagram that is reverse engineered and submitted unchanged.  
+A static design model (design class diagram) of all changed and directly related components, complete with (for the changed components) visibility modifiers, attributes, associations, and public (at least) methods. 
 ## 3. Dynamic Design Model
-A dynamic design model(design sequence diagram) illustrating how robots in your system transition from operating individually to working as a team and back to working individuals again. 
+A dynamic design model(design sequence diagram) illustrating how robots in the system transition from operating individually to working as a team and back to working individuals again. 
 
