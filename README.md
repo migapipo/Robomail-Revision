@@ -23,7 +23,7 @@ can be carried by one to three robots (one only in the current system). The weig
 
 
 # About this project 
-## Extended Design and Implementation 
+## Objective: Extended Design and Implementation 
 As discussed above, and in order for the users of Automail to have confidence that changes have been made in a controlled manner, this program preserved the Automail simulation’s existing behaviour. The extended design and implementation accounts for the following:
 - Preserve the behaviour of the system for configurations of where the maximum mail item weight is limited to that transportable by a single robot. (Preserve = identical output. We will use a file comparison tool to check this.)
 - Add team behaviour to deal with heavier mail items.
