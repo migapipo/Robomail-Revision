@@ -22,12 +22,13 @@ can be carried by one to three robots (one only in the current system). The weig
 - A team of robots (whether made up of two or three robots) moves at one third the speed of an individual robot; where an individual robot moves one floor every time step (robot.step()), the team will wait for two time steps before moving on the third time step.
 
 
-# About this project 
+# About this project
 ## Objective: Extended Design and Implementation 
 As discussed above, and in order for the users of Automail to have confidence that changes have been made in a controlled manner, this program preserved the Automail simulation’s existing behaviour. The extended design and implementation accounts for the following:
 - Preserve the behaviour of the system for configurations of where the maximum mail item weight is limited to that transportable by a single robot. (Preserve = identical output. We will use a file comparison tool to check this.)
 - Add team behaviour to deal with heavier mail items.
 
+# Software Modelling and Design 
 ## 1. Domain Class Diagram
 A domain class diagram for the robot mail delivery domain, as reflected in the revised simulation. 
 ## 2. Static Design Model 
